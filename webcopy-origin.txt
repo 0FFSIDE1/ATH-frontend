@@ -1,0 +1,1764 @@
+Uri: https://apotradeshub.com/
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\index.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/aboutus
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\aboutus.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/assets/global/css/iziToast.min.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\global\css\iziToast.min.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/global/js/iziToast.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\global\js\iziToast.min.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/global/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\global\js\jquery-3.6.0.min.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/images/logoIcon/favicon.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\images\logoIcon\favicon.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/images/logoIcon/logo.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\images\logoIcon\logo.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/animate.min.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\animate.min.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/newfront/custom.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\custom.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/ae.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\ae.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/ae@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\ae@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/at.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\at.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/at@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\at@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/au.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\au.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/au@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\au@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/bvi.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\bvi.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/bvi@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\bvi@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/cn.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\cn.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/cn@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\cn@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/de.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\de.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/de@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\de@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/ky.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\ky.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/ky@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\ky@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/MS.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\MS.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/MS@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\MS@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/us.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\us.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/vu.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\vu.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/images/landing_page/eu/flags/vu@2x.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\images\landing_page\eu\flags\vu@2x.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/newfront/jpeg/3.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\jpeg\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/newfront/jpeg/4.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\jpeg\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/newfront/jpeg/5.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\jpeg\5.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/newfront/jpeg/6.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\jpeg\6.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/newfront/jpeg/7.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\newfront\jpeg\7.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strong/css/style.bundle.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\css\style.bundle.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strong/css/style.bundle2.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\css\style.bundle2.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strong/js/custom/authentication/sign-in/general.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\js\custom\authentication\sign-in\general.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/strong/js/scripts.bundle.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\js\scripts.bundle.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/strong/media/svg/brand-logos/apple-black.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\media\svg\brand-logos\apple-black.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/media/svg/brand-logos/google-icon.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\media\svg\brand-logos\google-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/@fortawesome/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\@fortawesome\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/bootstrap-icons/bootstrap-icons﹖1fa40e8900654d2863d011707b9fb6f2.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\bootstrap-icons\bootstrap-icons﹖1fa40e8900654d2863d011707b9fb6f2.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/bootstrap-icons/bootstrap-icons﹖1fa40e8900654d2863d011707b9fb6f2.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\bootstrap-icons\bootstrap-icons﹖1fa40e8900654d2863d011707b9fb6f2.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-duotone﹖eut7fk.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-duotone﹖eut7fk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-duotone﹖eut7fk.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-duotone﹖eut7fk.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-duotone﹖eut7fk.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-duotone﹖eut7fk.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-duotone﹖eut7fk.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-duotone﹖eut7fk.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-outline﹖fzo4bm.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-outline﹖fzo4bm.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-outline﹖fzo4bm.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-outline﹖fzo4bm.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-outline﹖fzo4bm.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-outline﹖fzo4bm.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-outline﹖fzo4bm.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-outline﹖fzo4bm.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-solid﹖812fv7.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-solid﹖812fv7.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-solid﹖812fv7.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-solid﹖812fv7.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-solid﹖812fv7.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-solid﹖812fv7.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/keenicons/keenicons-solid﹖812fv7.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\keenicons\keenicons-solid﹖812fv7.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400﹖.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400﹖.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900﹖.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900﹖.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900.woff
+Content Type: font/woff
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/fonts/line-awesome/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\fonts\line-awesome\la-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/plugins.bundle.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\plugins.bundle.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strong/plugins/global/plugins.bundle.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strong\plugins\global\plugins.bundle.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/strongfront/css/style.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\css\style.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strongfront/css/style2.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\css\style2.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strongfront/css/style3.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\css\style3.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strongfront/icons/ICM-logo-w-black.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\icons\ICM-logo-w-black.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/icons/ICM-logo-w.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\icons\ICM-logo-w.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/icons/ICM-logo-w.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\icons\ICM-logo-w.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/icons/search.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\icons\search.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/icons/strongico.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\icons\strongico.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/images/404/bot_img.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\404\bot_img.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/404/oops.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\404\oops.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/404/sorry_i_could_not_find_it.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\404\sorry_i_could_not_find_it.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/certificate_icon2.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\certificate_icon2.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/chat-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\chat-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/check.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\check.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/cta-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\cta-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/ctrader-01.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\ctrader-01.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/ctrader-02.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\ctrader-02.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/ctrader-03.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\ctrader-03.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/ctrader-04.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\ctrader-04.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/ctrader-ecn-banner-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\ctrader-ecn-banner-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/decrease.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\decrease.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/email-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\email-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/exclaimatory-sign.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\exclaimatory-sign.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/02.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\02.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/03.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\03.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/04.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\04.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/05.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\05.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/06.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\06.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/07.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\07.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/08.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\08.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-02.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-02.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-03.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-03.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-04.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-04.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-05.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-05.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-06.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-06.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-07.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-07.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/home-banner/mobile-08.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\home-banner\mobile-08.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/img-mob.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\img-mob.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/images/increase.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\increase.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/infocircle.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\infocircle.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/insurance/insurancebanner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\insurance\insurancebanner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/left-effect-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\left-effect-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/live-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\live-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/mastercard-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\mastercard-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/mobile-cta.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\mobile-cta.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/mobile_trading_app/intro-background.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\mobile_trading_app\intro-background.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/mt-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\mt-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/neteller-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\neteller-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/open-account-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\open-account-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/paypal-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\paypal-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/pic-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\pic-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/pkg-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\pkg-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/raw-chart-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\raw-chart-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/seychelles-flag.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\seychelles-flag.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/about-us-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\about-us-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/account_funding_bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\account_funding_bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/advantages-of-cfds-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\advantages-of-cfds-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/advantages-of-forex-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\advantages-of-forex-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/api-trading-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\api-trading-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/avalanche-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\avalanche-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/banner1.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\banner1.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/banner2.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\banner2.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/bnc-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\bnc-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/btc-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\btc-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/btc-cash-color.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\btc-cash-color.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/btc-color.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\btc-color.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/careers-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\careers-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/cdo-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\cdo-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/contact-us-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\contact-us-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/ctrader-copy-trading-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\ctrader-copy-trading-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/ctrader-windows-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\ctrader-windows-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/dash-color.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\dash-color.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/dgc-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\dgc-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/dot-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\dot-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/economic-calendar-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\economic-calendar-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/education-overview-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\education-overview-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/emc-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\emc-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/eos-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\eos-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/ethereum-color.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\ethereum-color.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/forex-calculators-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\forex-calculators-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/forex-trading-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\forex-trading-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/glossary-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\glossary-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/help-centre-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\help-centre-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/icshares.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\icshares.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/kusama-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\kusama-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/legal-documents-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\legal-documents-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/liquidity-provision-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\liquidity-provision-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/lite-color.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\lite-color.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/lnk-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\lnk-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/luna-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\luna-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/moonbeam-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\moonbeam-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/mt-android-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\mt-android-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/mt-ios-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\mt-ios-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/mt4-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\mt4-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/myfxbook-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\myfxbook-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/nmc-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\nmc-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/overview_header_bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\overview_header_bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/polygon-matic-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\polygon-matic-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/ppc-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\ppc-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/regulation-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\regulation-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/rippleIcon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\rippleIcon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/spreads-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\spreads-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/spreads-spread.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\spreads-spread.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/swap-rates-swaps.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\swap-rates-swaps.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-api-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-api-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-currency.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-currency.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-execution.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-execution.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-hours.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-hours.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-margin.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-margin.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-spreads.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-spreads.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-conditions-swaps.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-conditions-swaps.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-hours-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-hours-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/trading-hours-hours.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\trading-hours-hours.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/tzs-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\tzs-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/usp-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\usp-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/virtual-private-server-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\virtual-private-server-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/white-label-partnerships-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\white-label-partnerships-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/withdrawal_header_bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\withdrawal_header_bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/xlm-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\xlm-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/single_market_page/zulutrade-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\single_market_page\zulutrade-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/skrill-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\skrill-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/social-trading-mobile-app/access-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\social-trading-mobile-app\access-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/social-trading-mobile-app/connect-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\social-trading-mobile-app\connect-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/social-trading-mobile-app/discover-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\social-trading-mobile-app\discover-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/social-trading-mobile-app/social-trading-banner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\social-trading-mobile-app\social-trading-banner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/social-trading-mobile-app/trade1-icon.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\social-trading-mobile-app\trade1-icon.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/spread-step-01.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\spread-step-01.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/spread-step-02.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\spread-step-02.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/spread-step-03.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\spread-step-03.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/spread-step-mbl-01.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\spread-step-mbl-01.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/strength-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\strength-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/teamviewer/homebanner.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\teamviewer\homebanner.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/trade-with-web-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\trade-with-web-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/trade-with-web-bg2.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\trade-with-web-bg2.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/trustpilot-icon-fsa.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\trustpilot-icon-fsa.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/visa-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\visa-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/wiretransfer-logo.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\wiretransfer-logo.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/images/world-bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\images\world-bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/js/custom﹖ac751c665236409cd02d54f6209ca05e.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\js\custom﹖ac751c665236409cd02d54f6209ca05e.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/strongfront/js/static-home﹖7dc2107c3a989cdcc8d5f32ecafe3641.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\js\static-home﹖7dc2107c3a989cdcc8d5f32ecafe3641.js
+Content Type: text/javascript
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-3.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-3.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-4.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-4.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-5.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-5.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-6.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-6.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/button-7.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\button-7.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-1.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-2.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-3.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-4.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-4.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-5.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-5.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/icon-6.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\icon-6.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/next/static/css/024adb529ac3d223.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\next\static\css\024adb529ac3d223.css
+Content Type: text/css
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/hero-bottom-items-icons/icon2--variant-dollar.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\hero-bottom-items-icons\icon2--variant-dollar.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/hero-bottom-items-icons/icon3--variant-tick.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\hero-bottom-items-icons\icon3--variant-tick.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/start-trading/video-1.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\start-trading\video-1.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/start-trading/video-2.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\start-trading\video-2.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/start-trading/video-3.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\start-trading\video-3.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/common/start-trading/video-4.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\common\start-trading\video-4.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-copy-trading-with-naga/diverse/img-1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-copy-trading-with-naga\diverse\img-1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-copy-trading-with-naga/diverse/img-2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-copy-trading-with-naga\diverse\img-2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-copy-trading-with-naga/diverse/img-3.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-copy-trading-with-naga\diverse\img-3.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-copy-trading-with-naga/diverse/img-4.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-copy-trading-with-naga\diverse\img-4.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-stock-trading-with-naga/start-trading/icon-1.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-stock-trading-with-naga\start-trading\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-stock-trading-with-naga/start-trading/icon-2.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-stock-trading-with-naga\start-trading\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-stock-trading-with-naga/start-trading/icon-3.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-stock-trading-with-naga\start-trading\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/discover-stock-trading-with-naga/start-trading/icon-4.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\discover-stock-trading-with-naga\start-trading\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/hero/anim.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\hero\anim.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/hero/poster.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\hero\poster.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/balloons1.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\balloons1.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/balloons2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\balloons2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/balloons3.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\balloons3.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/block.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\block.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/btn-icon1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\btn-icon1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/icon1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\icon1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/icon2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\icon2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/icon3.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\icon3.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/icon5.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\icon5.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/img1-desk.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\img1-desk.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/img1.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\img1.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/img2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\img2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/road.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\road.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/screen1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\screen1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/step.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\step.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/how-does-autocopy/roadmap/tap.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\how-does-autocopy\roadmap\tap.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/Hero-Phones.jpeg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\Hero-Phones.jpeg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/icon.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item3.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item3.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item4.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item4.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item5.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item5.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/main-page/next-level/item6.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\main-page\next-level\item6.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/commodities.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\commodities.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/crypto.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\crypto.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/fingertips.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\fingertips.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/futures.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\futures.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/indices.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\indices.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/markets/diverse-range/stock-cfds.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\markets\diverse-range\stock-cfds.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/naga-execution-policy/hero/background.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\naga-execution-policy\hero\background.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/hero-new/img-desk.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\hero-new\img-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/try-copy-trading/lead-traders/rank-2.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\try-copy-trading\lead-traders\rank-2.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/try-copy-trading/trader-manual/img-desk.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\try-copy-trading\trader-manual\img-desk.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/icon-1.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/icon-2.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/icon-3.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/icon-4.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\icon-4.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/icon-5.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\icon-5.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/why-choose-naga/img-new.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\why-choose-naga\img-new.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/working-benefits/img-1.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\working-benefits\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/working-benefits/img-2.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\working-benefits\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/working-benefits/img-3.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\working-benefits\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/new-main-page/working-benefits/img-4.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\new-main-page\working-benefits\img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/assets/strongfront/update/partners-program/strongplatform/check.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\partners-program\strongplatform\check.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/partners-program/strongplatform/image-1.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\partners-program\strongplatform\image-1.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/partners-program/strongplatform/image-2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\partners-program\strongplatform\image-2.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/partners-program/strongplatform/image-5.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\partners-program\strongplatform\image-5.png
+Content Type: image/png
+
+Uri: https://apotradeshub.com/assets/strongfront/update/reviews/hero/bg.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\reviews\hero\bg.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/update/reviews/hero/girl.webp
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\reviews\hero\girl.webp
+Content Type: image/webp
+
+Uri: https://apotradeshub.com/assets/strongfront/update/trading-forex/hero/icon1.svg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\trading-forex\hero\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://apotradeshub.com/assets/strongfront/update/video.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\video.mp4
+Content Type: video/mp4
+
+Uri: https://apotradeshub.com/assets/strongfront/update/why-choose-naga/invest/bg.jpg
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\assets\strongfront\update\why-choose-naga\invest\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://apotradeshub.com/bonds
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\bonds.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/bullcopytrade-raw
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\bullcopytrade-raw.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/careers
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\careers.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/commodities
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\commodities.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/contact-us
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\contact-us.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/copytrading-how-it-works
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\copytrading-how-it-works.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/digitalcurrency
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\digitalcurrency.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/expert-traders
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\expert-traders.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/forex
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\forex.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/futures
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\futures.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/indices
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\indices.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/insurance
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\insurance.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/mt4-advanced-trading-tools
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\mt4-advanced-trading-tools.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/range-of-markets
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\range-of-markets.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/raw-spread-account
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\raw-spread-account.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/regulation
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\regulation.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/reviewsapi
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\reviewsapi.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/spreads
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\spreads.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/standard-account
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\standard-account.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/stocks
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\stocks.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/swap-rates
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\swap-rates.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/trading-conditions
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\trading-conditions.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/trading-hours
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\trading-hours.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/trading-servers
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\trading-servers.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/user/login
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\user\login.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/user/password/reset
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\user\password\reset.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/user/register
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\user\register.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/virtual-private-server
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\virtual-private-server.html
+Content Type: text/html
+
+Uri: https://apotradeshub.com/white-label-partnerships
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\white-label-partnerships.html
+Content Type: text/html
+
+Uri: https://cdn.icmarkets.com/uploads/FSA/Evidence-of-Insurance-Certificate.pdf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\uploads\FSA\Evidence-of-Insurance-Certificate.pdf
+Content Type: application/pdf
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\npm\bootstrap-icons@1.7.0\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/fonts/bootstrap-icons.woff2?a97b3594ad416896e15824f6787370e0
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\npm\bootstrap-icons@1.7.0\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.0/font/fonts/bootstrap-icons.woff?a97b3594ad416896e15824f6787370e0
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\npm\bootstrap-icons@1.7.0\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\npm\bootstrap@5.0.2\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.multibankfx.com/library/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\library\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-hover-dropdown/2.2.1/bootstrap-hover-dropdown.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\ajax\libs\bootstrap-hover-dropdown\2.2.1\bootstrap-hover-dropdown.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\ajax\libs\jquery\3.6.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.0.6/swiper-bundle.css
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\ajax\libs\Swiper\8.0.6\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.0.6/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\ajax\libs\Swiper\8.0.6\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,400;1,500&family=Maven+Pro:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkqg.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFkqg.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-PgFkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mavenpro/v36/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8fvx5nA.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\mavenpro\v36\7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8fvx5nA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mavenpro/v36/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf25nA.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\mavenpro\v36\7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8Rf25nA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mavenpro/v36/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nA.ttf
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\mavenpro\v36\7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX25nA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://media.b2broker.com/app/uploads/2020/03/group-3503-2.png
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\app\uploads\2020\03\group-3503-2.png
+Content Type: image/png
+
+Uri: https://naga.com/images/new-index/everything-trader/video.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\images\new-index\everything-trader\video.mp4
+Content Type: video/mp4
+
+Uri: https://naga.com/images/new-main-page/why-choose-naga/video-new.mp4
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\images\new-main-page\why-choose-naga\video-new.mp4
+Content Type: video/mp4
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\external-embedding\embed-widget-stock-heatmap.js
+Content Type: text/javascript
+
+Uri: https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\external-embedding\embed-widget-ticker-tape.js
+Content Type: text/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\bullcopytrade.com\bootstrap\5.0.0-alpha1\js\bootstrap.min.js
+Content Type: application/javascript
+
